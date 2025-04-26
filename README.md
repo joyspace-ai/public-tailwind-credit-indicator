@@ -35,6 +35,7 @@ pnpm add tailwind-credit-indicator
 
 ```tsx
 import { CreditsIndicator } from 'tailwind-credit-indicator';
+import 'tailwind-credit-indicator/styles.css'; // Import the component styles
 
 function App() {
   return (
