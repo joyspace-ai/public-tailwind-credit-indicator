@@ -140,12 +140,12 @@ npm link tailwind-credit-indicator
 To start developing on this project:
 
 ```bash
-git clone https://github.com/yourusername/tailwind-credit-indicator.git
-cd tailwind-credit-indicator
+git clone https://github.com/joyspace-ai/public-tailwind-credit-indicator.git
+cd public-tailwind-credit-indicator
 npm install
 npm run dev
 ```
 
 ## License
 
-MIT © [Your Name] 
+MIT © [Sagar Gandhi] 
