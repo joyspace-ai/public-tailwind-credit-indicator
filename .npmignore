@@ -1,0 +1,26 @@
+# Source files
+src/
+
+# Config files
+tsconfig.json
+tsup.config.ts
+.eslintrc.json
+.prettierrc
+jest.config.js
+
+# Development files
+node_modules/
+.vscode/
+.idea/
+.DS_Store
+
+# Test files
+__tests__/
+*.test.ts
+*.test.tsx
+
+# Misc
+.github/
+.env*
+.gitignore
+CHANGELOG.md 
