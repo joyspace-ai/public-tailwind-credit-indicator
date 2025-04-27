@@ -153,4 +153,4 @@ npm run dev
 
 ## License
 
-MIT © [Sagar Gandhi] 
+AGPL v3 © [Sagar Gandhi] 
