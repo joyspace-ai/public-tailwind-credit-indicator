@@ -1,6 +1,6 @@
 {
   "name": "tailwind-credit-indicator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A beautiful, animated credit/battery indicator component built with React, TypeScript, and Tailwind CSS",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -36,7 +36,7 @@
     "component"
   ],
   "author": "Sagar Gandhi",
-  "license": "MIT",
+  "license": "AGPL-3.0-or-later",
   "peerDependencies": {
     "react": ">=17.0.0",
     "react-dom": ">=17.0.0",
