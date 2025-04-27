@@ -21,6 +21,10 @@ A beautiful, animated credit/battery indicator component built with React, TypeS
 - 🌈 Elegant gradient text that's visible on all backgrounds
 - 🌓 Light and dark mode support
 
+## Demo
+
+https://github.com/user-attachments/assets/72c63546-3f94-4311-bdb8-98bd271da8da
+
 ## Installation
 
 ```bash
